@@ -2,6 +2,9 @@
 
 Jogo criado para exemplificar o problema do caixeiro viajante (np-completo)
 
+Criado em Construct 2
+https://www.scirra.com/construct2
+
 ## Demo
 
 https://marciofunes-adventurenp-capitalist-github-io.glitch.me/
