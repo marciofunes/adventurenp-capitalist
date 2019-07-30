@@ -1,10 +1,6 @@
 # Adventure NP-Capitalist
 
-Jogo criado para explorar exemplificar o problema do caixeiro viajante (np-completo)
-
-## Uso
-
-Arquivos em HTMl que podem ser hospedados localmente (Wamp ou Xampp)
+Jogo criado para exemplificar o problema do caixeiro viajante (np-completo)
 
 ## Demo
 
