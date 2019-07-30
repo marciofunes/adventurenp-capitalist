@@ -6,6 +6,10 @@ Jogo criado para explorar exemplificar o problema do caixeiro viajante (np-compl
 
 Arquivos em HTMl que podem ser hospedados localmente (Wamp ou Xampp)
 
+## Demo
+
+https://marciofunes-adventurenp-capitalist-github-io.glitch.me/
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
