@@ -12,6 +12,6 @@ Arquivos em HTMl que podem ser hospedados localmente (Wamp ou Xampp)
 ## Imagens
 
 ![alt text](https://github.com/marciofunes/adventurenp-capitalist.github.io/blob/master/screen1.png)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/marciofunes/adventurenp-capitalist.github.io/blob/master/screen2.png)
+![alt text](https://github.com/marciofunes/adventurenp-capitalist.github.io/blob/master/screen3.png)
+![alt text](https://github.com/marciofunes/adventurenp-capitalist.github.io/blob/master/screen4.png)
